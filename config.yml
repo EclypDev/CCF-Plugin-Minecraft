@@ -1,0 +1,13 @@
+messages:
+  prefix: '§r '
+  voteThanks: §a¡Gracias por votar por {player}!
+  alreadyVoted: §cHas alcanzado el límite de votaciones.
+  missingUsername: §cDebes proporcionar un nombre de usuario para votar.
+  commandUsage: '§cUso del comando: /vote <jugador>'
+  usageCommandReset: '§cUsa: /ccf reset [usuario]'
+  noPlayerExecute: Este comando debe ser ejecutado por un jugador
+  votesusedreset: §aHas resetado los usos de votos de el jugador {player}
+  noPerms: §cNo tienes permiso para hacer esto.
+  reloaded: '&aPlugin recargado'
+  space: §r
+maxVotesPerUser: 5
